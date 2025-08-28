@@ -6,4 +6,5 @@
 - 🚀 Con muchas ganas de aprender y crecer como desarrolladora.
 
 ## Actualmente aprendiendo
-- Python, Java, SQL
+- Python.
+
